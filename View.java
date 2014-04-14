@@ -6041,7 +6041,7 @@ public class View implements Drawable.Callback, KeyEvent.Callback, Accessibility
      * @param canvas the canvas on which the background will be drawn
      */
     protected void onDraw(Canvas canvas) {
-       /* Log.i("wanghao_all","-------->info");*/
+        Log.i("wanghao_all","-------->info");
     }
 
     /*
